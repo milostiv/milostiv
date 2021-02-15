@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded software and PCB design
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 You can reach me by following the link:  [<img align="center" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
+- 📫 You can reach me by following the link:&nbsp;[<img align="center" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
 
 <!---
 milostiv/milostiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
